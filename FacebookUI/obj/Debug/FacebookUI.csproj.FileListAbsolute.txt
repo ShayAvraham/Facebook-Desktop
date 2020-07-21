@@ -1,0 +1,16 @@
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.csprojAssemblyReference.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.FormFacebookCalendar.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.FormHomePage.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.FormMyBestFriendsFinder.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.Properties.Resources.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.csproj.GenerateResource.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookUI.exe.config
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookUI.exe
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookUI.pdb
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookLogic.dll
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookLogic.pdb
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\bin\Debug\FacebookLogic.dll.config
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.csproj.CopyComplete
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.exe
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\A20 Ex03 DanielKahalani 204463624 ShayAvraham 312531023\FacebookUI\obj\Debug\FacebookUI.pdb
